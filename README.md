@@ -50,5 +50,5 @@
 
 <!-- ----- Mensagem de Conexão / Social ----- -->
 <p align="center">
-  <em>Got a project, an idea, or just want to have a friendly chat about tech? Hit me up on Discord or through the other links there. A hug from this Brazilian dev! 🇧🇷 (More content coming soon to the website!)</em>
+  <em>Got a project, an idea, or just want to chat? Pick your favorite link above and hit me up! — A hug from this Brazilian dev 🇧🇷<br></em>
 </p>
