@@ -1,9 +1,9 @@
 <!-- ----- Saudação ----- -->
-<h3 align="center">👋 Hey! I'm Zev</h3>
+<h3 align="center">👋 Hey, I'm Zev!</h3>
 <p align="center">
   <!-- ----- Apresentação ----- -->
-  <b>Developer</b> and <b>RPG player</b> — focused on creating, exploring, and building on <b>ideas that make life (or work) easier through challenging projects</b>. Always ready for a good idea (or a crazy one) and proudly the kind of person who says: "Why not? Let’s go!"<br>
-  My real name is <b>Gleidson Gonzaga</b>, but everyone just calls me <b>Zev</b>.
+<p align="center">
+  <b>Dev</b> driven by a passion and curiosity for <b>software engineering</b> and the stubborn belief that everything can be simpler. My routine is about turning the "why even do this?" dilemma into real tools that make life easier (or just fun) for people. If the idea is wild and the concept is new or unknown, my answer will usually be <b>"Why not? Let’s go!"</b>
 </p>
 
 <!-- ----- Contatos ----- -->
@@ -21,7 +21,7 @@
 <!-- ----- Status do GitHub ----- -->
 <p align="center">
   <img 
-    src="https://github-readme-stats-master-five.vercel.app/api?username=Zev-Lonewolf&show_icons=true&theme=transparent&title_color=0C77AF&text_color=36A4D9&icon_color=053E7C&border_color=36A4D9" 
+    src="https://github-readme-stats-master-five.vercel.app/api?username=Zev-Kaapor&show_icons=true&theme=transparent&title_color=0C77AF&text_color=36A4D9&icon_color=053E7C&border_color=36A4D9" 
     alt="Zev-Lonewolf's GitHub stats" 
     height="160"
   />
@@ -50,6 +50,5 @@
 
 <!-- ----- Mensagem de Conexão / Social ----- -->
 <p align="center">
-  <em>If you want to chat, game, or binge some anime, hit me up! — A hug from this dev 🇧🇷<br></em>
-  <em>(More connections on Discord; new links and content coming soon on the website!)</em>
+  <em>Got a project, an idea, or just want to have a friendly chat about tech? Hit me up on Discord or through the other links there. A hug from this Brazilian dev! 🇧🇷 (More content coming soon to the website!)</em>
 </p>
