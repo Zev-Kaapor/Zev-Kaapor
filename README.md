@@ -36,16 +36,20 @@
 <!-- ----- Skills ----- -->
 ### 🛠️ Tools & IDEs 
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### 📦 Frameworks, Libraries & Formats  
+![Jetpack_Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 
-### 👨‍💻 Languages  
+### 👨‍💻 Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" /></a> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="Kotlin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" /></a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" /></a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /></a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="Kotlin" /></a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" /></a>
 
 <!-- ----- Mensagem de Conexão / Social ----- -->
